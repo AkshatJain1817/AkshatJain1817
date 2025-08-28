@@ -44,15 +44,6 @@ Currently sharpening my **MERN stack**, diving deep into **AI/ML**, and preparin
 
 ---
 
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain28&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain28&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/akshat-jain-7a8152256)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](http://portfolio-4unz.onrender.com)  
