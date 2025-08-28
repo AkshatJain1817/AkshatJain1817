@@ -37,10 +37,8 @@ Currently sharpening my **MERN stack**, diving deep into **AI/ML**, and preparin
 
 ## 📌 Featured Projects
 
-🌟 **[HireHub](#)** – Research & project on smart hiring  
+🌟 **[HireHub]( https://hirehub-frontend.onrender.com/)** – Research & project on smart hiring  
 🌟 **[Smart Task Tracker](#)** – MERN + AI powered task management web app  
-🌟 **[Temple Donation Manager](#)** – MERN app for donation records, JWT auth, and Excel export  
-🌟 **[Instagram Clone](#)** – MERN + AWS, featuring posts, likes, comments, DMs  
 
 *(Check pinned repos below 👇 for code!)*  
 
@@ -56,9 +54,9 @@ Currently sharpening my **MERN stack**, diving deep into **AI/ML**, and preparin
 ---
 
 ## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/your-id)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/akshat-jain-7a8152256)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](http://portfolio-4unz.onrender.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/akshat1817/)  
 
 ---
 
