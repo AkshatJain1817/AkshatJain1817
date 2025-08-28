@@ -54,7 +54,7 @@ Currently sharpening my **MERN stack**, diving deep into **AI/ML**, and preparin
 ---
 
 ## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/akshat-jain-7a8152256)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/akshat-jain-7a8152256)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](http://portfolio-4unz.onrender.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/akshat1817/)  
 
