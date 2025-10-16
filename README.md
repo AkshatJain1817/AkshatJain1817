@@ -7,11 +7,10 @@ Currently sharpening my **MERN stack**, diving deep into **AI/ML**, and preparin
 
 ---
 
-## 🚀 About Me
-- 🌱 Learning: **AI/ML + Data Science** with real-world projects  
-- 💼 Internships: Experience with **Node.js backends, CI/CD, and cloud deployment**  
-- 🛠️ Strong in: **MERN Stack, REST APIs, SQL/NoSQL, Swagger**  
-- 🎯 Goal: Become an **impact-driven developer & data scientist**  
+## 🚀 About Me  
+- 💼 Internships: Experience with **Node.js backends**  
+- 🛠️ Strong in: **MERN Stack, REST APIs, NoSQL, Postman**  
+- 🎯 Goal: Become an **impact-driven developer**  
 - 📚 Exploring: System Design, DSA (Striver A2Z), and Open Source  
 
 ---
@@ -19,19 +18,16 @@ Currently sharpening my **MERN stack**, diving deep into **AI/ML**, and preparin
 ## 🔧 Tech Stack
 
 **Frontend:**  
-`React` · `Next.js` · `TailwindCSS` · `JavaScript`  
+`React` · `TailwindCSS` · `JavaScript`  
 
 **Backend:**  
-`Node.js` · `Express` · `Flask` · `Django`  
+`Node.js` · `Express`
 
 **Databases:**  
-`MongoDB` · `PostgreSQL` · `Firebase`  
-
-**AI/ML & Tools:**  
-`Python` · `NumPy` · `Pandas` · `Scikit-learn`  
+`MongoDB`    
 
 **Other Tools:**  
-`Git & GitHub` · `Docker` · `Swagger` · `CI/CD (GitHub Actions)` · `Cloud (Azure / AWS)`  
+`Git & GitHub` · `Swagger` 
 
 ---
 
